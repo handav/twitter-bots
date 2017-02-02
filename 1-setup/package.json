@@ -1,5 +1,5 @@
 {
-  "name": "11-moviebot",
+  "name": "1-setup",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "natural": "^0.4.0",
     "twit": "^2.2.5"
   }
 }
