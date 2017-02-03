@@ -36,4 +36,5 @@ In this course we’ll learn how to create Twitter bots. We’ll first learn how
 ## Additional Resources:
 
 Twitter's List of Automation Rules: https://support.twitter.com/articles/76915
+
 https://xkcd.com/1646/
