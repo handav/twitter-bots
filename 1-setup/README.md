@@ -1,0 +1,1 @@
+In this lesson, we’ll go over the basic Twitter bot setup, including how to start a project from scratch, install necessary packages, and store our private keys in environment variables. 
