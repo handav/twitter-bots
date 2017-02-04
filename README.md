@@ -8,11 +8,11 @@ In this course we’ll learn how to create Twitter bots. We’ll first learn how
 
 2. Post Statuses with Twit.js - We’ll tweet hello to the Twitter world!
 
-3. Interacting with Tweets with Twit.js - We’ll learn the basics of interacting with tweets, including retweeting, deleting, and favoriting tweets.
+3. Interacting with Users with Twit.js - We’ll learn how your bot can get your list of followers, follow people, and get your list of friendships.
 
-4. Search Tweets with Twit.js - We’ll learn how to search all tweets by a keyword.
+4. Interacting with Tweets with Twit.js - We’ll learn the basics of interacting with tweets, including retweeting, deleting, and favoriting tweets.
 
-5. Interact with Followers with Twit.js - We’ll learn how to get your list of followers, interact with followers who tweet at you, and follow people back. 
+5. Search Tweets with Twit.js - We’ll learn how to search all tweets with the Twitter Search API.
 
 6. Work with Tweet Streams with Twit.js - We’ll get a real-time stream of tweets, and learn how to filter a stream by keyword, location, and language. 
 
