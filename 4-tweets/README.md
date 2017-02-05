@@ -1,0 +1,1 @@
+We’ll learn the basics of interacting with tweets, including retweeting, deleting, favoriting, and replying to tweets.
