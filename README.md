@@ -4,6 +4,7 @@ In this course we’ll learn how to create Twitter bots. We’ll first learn how
 
 ##Lessons
 
+###The Twitter API
 1. Basic Twitter Bot Setup with Twit.js - We’ll go over the basic Twitter bot setup, including how to start a project from scratch, install necessary packages, and store our private keys in environment variables. 
 
 2. Post Statuses with Twit.js - We’ll tweet hello to the Twitter world!
@@ -18,19 +19,22 @@ In this course we’ll learn how to create Twitter bots. We’ll first learn how
 
 7. Tweeting Media Files with Twit.js - With this bot, we’ll learn how to tweet photos and audio, using media from NASA’s space archives. 
 
+###Bot Tools and Useful APIs
 8. Make A Bot That Sounds Like You with RiTa.js - In this lesson, we’ll give our bot a large input of past text that we’ve written (essays, other tweets, etc.) and, using markov chains, have it create tweets that sound like ourselves! 
 
 9. Analyze Human Emotions in Photos with Google Cloud Vision API - With this bot, we’ll find the number of faces in a photo, and determine what emotions the faces are expressing, using the Google Cloud Vision API. 
 
 10. Make A Story Generation Bot with Tracery - Tracery is a brilliant tool to more easily create story grammars and structure. In this lesson, we’ll create a bot that tweets out tiny stories. 
 
-11. Make A Silly Movie Noun Bot - Using Natural.js and the New York Times Developer API, we’ll create a silly bot that collects all the nouns in a movie review. 
+11. Make a Bot That Reads a Real-Time API with Sunlight Foundation - Sunlight Foundation APIs provide real-time data of congressional actions. In this lesson, we’ll tweet the data as it is released.
 
 12. Tweet From A List of Predefined Tweets - We’ll make a bot that pulls a tweet from a list of pre-written tweets, using Google Spreadsheets.
 
-13. Host Your Bot using Heroku - We’ll learn how to host our bot with Heroku.
+13. Make A Silly Movie Noun Bot - Using Natural.js and the New York Times Developer API, we’ll create a silly bot that collects all the nouns in a movie review. 
 
-14. Host Your Bot using Amazon - We’ll learn how to host our bot using Amazon. 
+14. Host Your Bot using Heroku - We’ll learn how to host our bot using Heroku.
+
+15. Host Your Bot using Amazon - We’ll learn how to host our bot using Amazon. 
 
 
 ## Additional Resources:
