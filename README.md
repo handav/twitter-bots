@@ -12,9 +12,9 @@ In this course we’ll learn how to create Twitter bots. We’ll first learn how
 
 4. Interacting with Tweets with Twit.js - We’ll learn the basics of interacting with tweets, including retweeting, deleting, and favoriting tweets.
 
-5. Search Tweets with Twit.js - We’ll learn how to search all tweets with the Twitter Search API.
+5. Search Tweets with Twit.js - We’ll learn how to search tweets with the Twitter Search API.
 
-6. Work with Tweet Streams with Twit.js - We’ll get a real-time stream of tweets, and learn how to filter a stream by keyword, location, and language. 
+6. Work with Tweet Streams with Twit.js - We’ll get a real-time stream of tweets, and learn how to filter a stream by keyword, location, and user. 
 
 7. Tweeting Media Files with Twit.js - With this bot, we’ll learn how to tweet photos and audio, using media from NASA’s space archives. 
 
