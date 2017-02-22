@@ -1,5 +1,5 @@
 {
-  "name": "7-media",
+  "name": "8-ritajs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "request": "^2.79.0",
     "twit": "^2.2.5"
   }
 }
