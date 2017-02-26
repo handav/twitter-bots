@@ -10,6 +10,7 @@ var bot = new Twit({
     timeout_ms: 10 * 1000
 });
 
+
 function getPhoto(){
     var parameters = {
         url: 'https://api.nasa.gov/planetary/apod',
@@ -55,6 +56,7 @@ function uploadMedia(descriptionText, fileName){
     });
 }
 
+
 function postStatus(params){
     bot.post('statuses/update', params, function(err, data, response){
         if (err){
@@ -65,15 +67,5 @@ function postStatus(params){
     });
 }
 
+
 uploadMedia('Video from NASA', 'nasa_video.mp4');
-
-
-
-
-
-
-
-
-
-
-

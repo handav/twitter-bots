@@ -2,6 +2,11 @@
 
 In this course we’ll learn how to create Twitter bots. We’ll first learn how to interface with the Twitter API using Twit.js, which allows us to post statuses, search tweets, and interact with followers. We’ll create several example bots that show the diversity of possibilities, using powerful tools such as RiTa.js, Google’s Cloud Vision API, Tracery, Natural.js, and the New York Times API. We’ll learn how to set up our bot to interface with Google Spreadsheets. We’ll also learn how to host our bot logic on Heroku and on Amazon. 
 
+##To-Do Before Watching
+
+1. For lesson 7: register for an API key with NASA at https://api.nasa.gov/index.html#apply-for-an-api-key. If you don't want to use your own api key, NASA also offers DEMO_KEY as an option for playing around with the API.
+2. For lesson 8: If you want to use your Twitter data, download your Twitter archive at the bottom of the page at https://twitter.com/settings/account. You can also use any other body of text instead.
+
 ##Lessons
 
 1. Basic Twitter Bot Setup with Twit.js - We’ll go over the basic Twitter bot setup, including how to start a project from scratch, install necessary packages, and store our private keys in environment variables. 
@@ -16,7 +21,7 @@ In this course we’ll learn how to create Twitter bots. We’ll first learn how
 
 6. Work with Tweet Streams with Twit.js - We’ll get a real-time stream of tweets, and learn how to filter a stream by keyword, location, and user. 
 
-7. Tweeting Media Files with Twit.js - With this bot, we’ll learn how to tweet photos and audio, using media from NASA’s space archives. 
+7. Tweeting Media Files with Twit.js - In this lesson, we’ll learn how to download photos from an API and tweet photos and video, using media from NASA’s space archives.
 
 8. Make A Bot That Sounds Like You with RiTa.js - In this lesson, we’ll give our bot a large input of past text that we’ve written (essays, other tweets, etc.) and, using markov chains, have it create tweets that sound like ourselves! 
 

@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "csv-parse": "^1.2.0",
+    "rita": "^1.1.51",
     "twit": "^2.2.5"
   }
 }
