@@ -6,6 +6,7 @@ In this course we’ll learn how to create Twitter bots. We’ll first learn how
 
 1. For lesson 7: register for an API key with NASA at https://api.nasa.gov/index.html#apply-for-an-api-key. If you don't want to use your own api key, NASA also offers DEMO_KEY as an option for playing around with the API.
 2. For lesson 8: If you want to use your Twitter data, download your Twitter archive at the bottom of the page at https://twitter.com/settings/account. You can also use any other body of text instead.
+3. For lesson 9: Sign up for a Google Cloud Vision account at https://cloud.google.com/vision/. Save your project ID and download your key (will download as a json file). The API is free for up to 1000 requests/month.
 
 ##Lessons
 
@@ -25,7 +26,7 @@ In this course we’ll learn how to create Twitter bots. We’ll first learn how
 
 8. Make A Bot That Sounds Like You with RiTa.js - In this lesson, we’ll give our bot a large input of past text that we’ve written (essays, other tweets, etc.) and, using markov chains, have it create tweets that sound like ourselves! 
 
-9. Analyze Human Emotions in Photos with Google Cloud Vision API - With this bot, we’ll find the number of faces in a photo, and determine what emotions the faces are expressing, using the Google Cloud Vision API. 
+9. Make a Bot That Analyzes Human Emotions in Photos with Google Cloud Vision API - With this bot, we’ll find the number of faces in a photo that is tweeted at us, and respond back with what emotions the faces are expressing, using the Google Cloud Vision API.
 
 10. Make A Story Generation Bot with Tracery - Tracery is a brilliant tool to more easily create story grammars and structure. In this lesson, we’ll create a bot that tweets out tiny stories. 
 
