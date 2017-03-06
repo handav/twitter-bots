@@ -7,6 +7,8 @@ In this course we’ll learn how to create Twitter bots. We’ll first learn how
 1. For lesson 7: register for an API key with NASA at https://api.nasa.gov/index.html#apply-for-an-api-key. If you don't want to use your own api key, NASA also offers DEMO_KEY as an option for playing around with the API.
 2. For lesson 8: If you want to use your Twitter data, download your Twitter archive at the bottom of the page at https://twitter.com/settings/account. You can also use any other body of text instead.
 3. For lesson 9: Sign up for a Google Cloud Vision account at https://cloud.google.com/vision/. Save your project ID and download your key (will download as a json file). The API is free for up to 1000 requests/month.
+4. For lesson 11: Request an API Key from ProPublic at apihelp@propublica.org (takes 24-48 hours).
+5. For lesson 12: Get a NYTimes Developer Key at https://developer.nytimes.com/signup.
 
 ##Lessons
 
@@ -28,13 +30,13 @@ In this course we’ll learn how to create Twitter bots. We’ll first learn how
 
 9. Make a Bot That Analyzes Human Emotions in Photos with Google Cloud Vision API - With this bot, we’ll find the number of faces in a photo that is tweeted at us, and respond back with what emotions the faces are expressing, using the Google Cloud Vision API.
 
-10. Make A Story Generation Bot with Tracery - Tracery is a brilliant tool to more easily create story grammars and structure. In this lesson, we’ll create a bot that tweets out tiny stories. 
+10. Make A Story Generation Bot with Tracery - Tracery is a brilliant tool to more easily create text grammars and structure. In this lesson, we’ll create a bot that tweets out tiny stories.
 
-11. Make a Bot That Reads a Real-Time API with Sunlight Foundation - Sunlight Foundation APIs provide real-time data of congressional actions. In this lesson, we’ll tweet the data as it is released.
+11. Make A Silly Movie Noun Bot - Using Natural.js and the New York Times Developer API, we’ll create a silly bot that collects all the nouns in a movie review.
 
-12. Tweet From A List of Predefined Tweets - We’ll make a bot that pulls a tweet from a list of pre-written tweets, using Google Spreadsheets.
+12. Make a Bot That Saves and Retrieves Tweets from Google Spreadsheets with the ProPublica API - The ProPublica APIs provide daily data of congressional actions. In this lesson, we’ll tweet data, learn how to save our tweets to Google Spreadsheets, and retrieve tweets from the same spreadsheet.
 
-13. Make A Silly Movie Noun Bot - Using Natural.js and the New York Times Developer API, we’ll create a silly bot that collects all the nouns in a movie review. 
+13. Make a Twitter Audio Bot That Composes a Ditty Based on a Tweet - In the final bot lesson, we'll create a MIDI file composed based on a tweet that mentions us. Because Twitter only supports uploading audio in video form, we'll learn how to create a video from the MIDI file and post it to Twitter. 
 
 14. Host Your Bot using Heroku - We’ll learn how to host our bot using Heroku.
 
@@ -43,10 +45,14 @@ In this course we’ll learn how to create Twitter bots. We’ll first learn how
 
 ## Additional Resources:
 
-Twitter's List of Automation Rules: https://support.twitter.com/articles/76915
+Twitter's List of Automation Rules: 
+https://support.twitter.com/articles/76915
 
-Rate Limit Chart: https://dev.twitter.com/rest/public/rate-limits
+Rate Limit Chart: 
+https://dev.twitter.com/rest/public/rate-limits
 
-Get rate limit status: https://dev.twitter.com/rest/reference/get/application/rate_limit_status
+Get rate limit status: 
+https://dev.twitter.com/rest/reference/get/application/rate_limit_status
 
-Relevant: https://xkcd.com/1646/
+Relevant: 
+https://xkcd.com/1646/

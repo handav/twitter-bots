@@ -83,32 +83,6 @@ function formatStatus(allEmotions, replyToName){
     return status;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 var stream = bot.stream('statuses/filter', {track: '@bots_with_han'});
 
 stream.on('connecting', function(response){
