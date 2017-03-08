@@ -1,1 +1,1 @@
-https://console.developers.google.com/flows/enableapi
+In this lesson, we’ll retrieve and tweet data from Google Spreadsheets.
