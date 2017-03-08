@@ -33,13 +33,11 @@ In this course we’ll learn how to create Twitter bots. We’ll first learn how
 
 11. Make a Bot That Retrieves Tweets from Google Spreadsheets with Tabletop.js - In this lesson, we’ll learn how to retrieve and tweet data from Google Spreadsheets.
 
-12. Make A Silly Movie Noun Bot - Using Natural.js and the New York Times Developer API, we’ll create a silly bot that collects all the nouns in a movie review.
+12. Make a Twitter Audio Bot That Composes a Song Based on a Tweet - In the final bot lesson, we'll compose a ditty based on a tweet, save it as an audio file, and post it to Twitter. Because Twitter only supports uploading audio in video form, we'll learn how to create a video from the MIDI file and post it to Twitter. 
 
-13. Make a Twitter Audio Bot That Composes a Song Based on a Tweet - In the final bot lesson, we'll compose a ditty based on a tweet, save it as an audio file, and post it to Twitter. Because Twitter only supports uploading audio in video form, we'll learn how to create a video from the MIDI file and post it to Twitter. 
+13. Host Your Bot using Heroku - We’ll learn how to host our bot using Heroku.
 
-14. Host Your Bot using Heroku - We’ll learn how to host our bot using Heroku.
-
-15. Host Your Bot using Amazon - We’ll learn how to host our bot using Amazon. 
+14. Host Your Bot using Amazon - We’ll learn how to host our bot using Amazon. 
 
 
 ## Additional Resources:
