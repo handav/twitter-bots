@@ -1,0 +1,1 @@
+We’ll learn how to host a simple bot with Heroku.
