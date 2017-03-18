@@ -6,6 +6,7 @@ Videos
 7-media/nasa.jpg
 8-ritajs/twitter_archive
 keyfile.json
-12-audiobot/output.mp4
-12-audiobot/output.mid
 222-broken-audiobot
+output.mp4
+output.mid
+12-audiobot/output.mid

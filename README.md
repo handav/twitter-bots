@@ -7,7 +7,7 @@ In this course we’ll learn how to create Twitter bots. We’ll first learn how
 1. For lesson 7: register for an API key with NASA at https://api.nasa.gov/index.html#apply-for-an-api-key. If you don't want to use your own api key, NASA also offers DEMO_KEY as an option for playing around with the API.
 2. For lesson 8: If you want to use your Twitter data, download your Twitter archive at the bottom of the page at https://twitter.com/settings/account. You can also use any other body of text instead.
 3. For lesson 9: Sign up for a Google Cloud Vision account at https://cloud.google.com/vision/. Save your project ID and download your key (will download as a json file). The API is free for up to 1000 requests/month.
-4. For lesson 11: Get a NYTimes Developer Key at https://developer.nytimes.com/signup.
+4. For lesson 12: Install Timidity on the command line with 'brew install timidity'.
 
 ##Lessons
 
@@ -35,10 +35,9 @@ In this course we’ll learn how to create Twitter bots. We’ll first learn how
 
 12. Make a Twitter Audio Bot That Composes a Song Based on a Tweet - In the final bot lesson, we'll compose a ditty based on a tweet, save it as an audio file, and post it to Twitter. Because Twitter only supports uploading audio in video form, we'll learn how to create a video from the MIDI file and post it to Twitter. 
 
-13. Host Your Bot using Heroku - We’ll learn how to host our bot using Heroku.
+13. Host A Simple Bot using Heroku - We’ll learn how to host a simple bot using Heroku.
 
-14. Host Your Bot using Amazon - We’ll learn how to host our bot using Amazon. 
-
+14. Host a Complex Bot using Heroku and Docker - We’ll learn how to host a complex bot (a bot that requires external tools that need to be installed on the system) with Heroku and Docker. 
 
 ## Additional Resources:
 
