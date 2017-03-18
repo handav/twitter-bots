@@ -1,8 +1,8 @@
-Timidity must be installed on the system before this lesson.
+Timidity must be installed on the system before this lesson:
 
 brew install timidity
 
-In the final bot lesson, we'll create an audio file composed based on a tweet that mentions us. Because Twitter only supports uploading audio in video form, we'll learn how to create a video from the MIDI file and post it to Twitter. 
+For our final bot, we'll create an audio file composed based on a tweet that mentions us. Because Twitter only supports uploading audio in video form, we'll learn how to create a video from the MIDI file and post it to Twitter. 
 
 For more exciting things you can do with Natural Language Processing, see the course on Natural: https://egghead.io/courses/natural-language-processing-in-javascript-with-natural
 
